@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PretLancer7Application<pretLancer_7>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.team.pretLancer_7.PretLancer7Application",
+            "projectName": "pretLancer_7",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
